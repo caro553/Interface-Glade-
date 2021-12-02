@@ -1,0 +1,40 @@
+[Tacherifte]
+firstName=Tacherife
+lastName=aymen chafik
+adress=80 avenue de la republique
+zipCode=93300
+type=perso
+email=chchch@.cjjd.com
+number=0988273839
+[Belhadj]
+firstName=Belhaj
+lastName=Fares
+adress=82 avenue de la republique
+zipCode=93300
+type=perso
+email=chchch@.cjjd.fr
+number=098827383
+[Djerroud]
+firstName=Djerroud
+lastName=halim
+adress=81 avenue de la rep
+zipCode=93300
+type=perso
+email=cfrgch@.cjjd.com
+number=09458273839
+[Viala]
+firstName=Viala
+lastName=axel
+adress=90 avenue de la rep
+zipCode=93300
+type=bureau
+email=chlppoh@.cjjd.com
+number=090073839
+[Simpson]
+firstName=Simpson
+lastName=homer
+adress=87 avenue de la rep
+zipCode=93300
+type=perso
+email=chchch@.cjjd.com
+number=018273839
